@@ -4,7 +4,6 @@
   padding: 0;
 }
 .container {
-  position: relative;
   display: flex;
   height: 100vh;
   max-height: 100vh;
@@ -20,7 +19,6 @@ aside {
   background-color: grey;
 }
 .placeholder {
-  position: absolute;
   width: 150px;
   height: 40px;
   background-color: blue;
